@@ -1,7 +1,6 @@
 package com.volchok.productinfo.api;
 
 import com.volchok.productinfo.model.OutputTradeCsvRecord;
-import org.springframework.beans.factory.annotation.Value;
 
 import java.util.Comparator;
 import java.util.List;

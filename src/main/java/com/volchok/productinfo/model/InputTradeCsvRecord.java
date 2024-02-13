@@ -1,7 +1,6 @@
 package com.volchok.productinfo.model;
 
 import com.opencsv.bean.CsvBindByName;
-import lombok.Builder;
 import lombok.Data;
 
 @Data
